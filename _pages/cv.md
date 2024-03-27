@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, University of Florida, 2013
+* M.S. in Electrical and Computer Engineering, University of Florida, 2010
+* M.S. in Institute for Pattern Recognition and Artificial Intelligence, Huazhong University of Science and Technology (HUST), Wuhan, P. R. China, 2008
+* B.S. in Department of Electronics and Information Engineering, Huazhong University of Science and Technology (HUST), Wuhan, P. R. China, 2006
 
 Work experience
 ======
